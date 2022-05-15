@@ -1,0 +1,18 @@
+* {
+    margin: 1px auto 30px auto;
+    width: 90%;
+}
+.post-container {  /* usar as divs com mais semântica */
+    background: #fffafa;
+    padding-top: 20px;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+#datas {
+    font-family: 'Roboto', sans-serif;
+    color: #008080;
+}
+.p {
+    font-family: 'Open Sans', sans-serif;
+}
